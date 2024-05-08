@@ -1,0 +1,63 @@
+<html>
+  <title>
+    thewatchstore.com
+  </title>
+      <head>
+        
+      </head>
+      <link rel="stylesheet" href="first_project.css"
+      <body>
+        <nav>
+        <div>
+            <img src="C:\Users\rithi\OneDrive\Pictures\Screenshots\Screenshot 2024-05-07 114952.png">
+        </div>
+        <div>
+          <ul>
+            <li>HOME</li>
+            <li>PRODUCTS</li>
+            <li>ABOUT US</li>
+            <li>CONTACT US</li>
+          </ul>
+        </div>
+        </nav>
+        <center>
+          <form>
+              <input typr="text" placeholder="search" width:500px>
+          </form>
+      
+          <div class="one" width="250px">
+              <img src="F:\INTERN_OCTANET\1.jpg" width="250px" height="250px">
+              <p class="eight">Craftsmanship and Quality: Highlighting meticulous design and premium materials to appeal to those valuing durability ,quality and precision.</p>
+          </div>
+          <div class="one">
+              <img src="F:\INTERN_OCTANET\2.jpg" width="250px" height="250px">
+              <p  class="eight">Status and Prestige: Associating watches with wealth, success, and sophistication through celebrity endorsements and aspirational branding.</p>
+          </div>
+          <div class="one">
+              <img src="F:\INTERN_OCTANET\3.jpg" width="250px" height="250px">
+              <p class="eight">Heritage and Legacy: Emphasizing rich histories and traditions to establish credibility and forge emotional connections with consumers.</p>
+          </div>
+          <h1>
+              
+          </h1>
+          <center>
+              <h1>
+                 <b> About Us</b>
+              </h1>
+          </center>
+          
+          <p>
+            The Watch Store offers a luxurious experience for timepiece enthusiasts, showcasing a curated collection of high-quality watches from prestigious brands. With expert guidance, customers can find the perfect watch to suit their style and lifestyle. Beyond shopping, the store hosts events and workshops, fostering a community of watch aficionados. It's the ultimate destination for those who appreciate craftsmanship and elegance in their timepieces.
+      
+          </p>
+          <div class="ten">
+              <center><b>
+                  <li>CONTACT US</li><br>
+                      <li>+91 0987654321</li><br>
+                      <li>thewatchstore@gmail.com</li></b><br>
+              </center>
+              <p >Contact The Watch Store for expert assistance in finding your perfect timepiece. Visit our boutique or reach out via phone, email, or social media for personalized guidance. Your journey to luxury and elegance starts here.</p>
+          </div>
+          </center>
+      </body>
+</html>
