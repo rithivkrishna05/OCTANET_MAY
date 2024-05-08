@@ -1,0 +1,48 @@
+
+        img{
+          height: 100px;
+          width:200px;
+          padding-top: 20px;
+          padding-left:20px;
+          padding-bottom:20px;
+        }
+         ul,li{
+          display : inline-block;
+          color:black;
+         }
+         li{
+          padding-right: 20px;
+          padding-left: 20px;
+          cursor:pointer;
+         }
+        nav{
+          background-color:silver;
+        }
+        li:hover{
+          color:silver;
+          background-color: black;
+        }
+        div{
+          display:inline-block;
+          vertical-align: top;
+        }
+        ul{
+          padding-left: 300px;
+          padding-top: 50px;
+        }
+        .ten{
+          background-color: silver;
+          color:black;
+        }
+        .one{
+            border-color: black;
+            border-style: solid;
+            border-width:2px;
+            width:250px;
+            display: inline-block;
+        }
+        
+        form{
+          width:300px;
+          text-align: center;
+        }
