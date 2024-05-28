@@ -1,0 +1,17 @@
+function addTask() {
+    var input = document.getElementById("taskInput").value;
+    if (input === '') {
+      alert("You must write something!");
+    } else {
+      var li = document.createElement("li");
+      li.innerHTML = input + '<span class="delete" onclick="deleteTask(this)"> &#10007;</span>';
+      document.getElementById("taskList").appendChild(li);
+      document.getElementById("taskInput").value = "";
+    }
+  }
+  
+  function deleteTask(item) {
+    var li = item.parentElement;
+    li.remove();
+  }
+  
